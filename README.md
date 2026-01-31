@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Sourav Singh
 **A passionate Full-Stack Web Developer | PHP • CodeIgniter • MySQL | Building scalable web applications
 
-Email Me 👉 ✉️ **souravsingh8929@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **callmejk19@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Vegist – dynamic vegetable eCommerce website (CodeIgniter 3 | MySQL)
 - 🌱 **I’m currently learning:** MERN Stack – MongoDB, Express.js, React & Node.js
 - 👯 **I’m looking to collaborate on:** Souled Store–inspired eCommerce website focused on frontend interactivity and backend integration.
 - 🤔 **I’m looking for help with:** Improving features, performance, and security of my E-commerce web applications.
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** souravsingh8929@gmail.com
+- 📫 **How to reach me:** callmejk19@gmail.com
 - 😄 **Pronouns:** Sourav
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
